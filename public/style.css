@@ -9,11 +9,11 @@ body{
     background-image:url("../src/images/weavebg.jpg");
     background-position: center;
     background-repeat: repeat;
-    background-color: rgb(8, 47, 71);
-    color:lightgray
+    background-color: rgb(177, 177, 177);
+    color:black;
 }
 .container {
-    margin-top: 100px;
+    margin-top: 75px;
     text-align: center;
     margin-right:15%;
     margin-left: 15%
@@ -43,16 +43,37 @@ body{
     margin:auto
 }
 .card {
-    border-radius:5px;
-    background-color: transparent;
-    border:none;
+    border-radius:15px;
+    background-color:whitesmoke;
+    border-style: solid;
     padding: 35px;
     align-content: center;
     text-align: center;
-    border-color: darkgrey
+    border-color: whitesmoke;
+    border-width: 10px;
+    width: 70%;
+    margin-bottom: 60px;
+    margin-left: 15%;
+    margin-right: 15%;
+   
+}
+.contactInfoCard{
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+    height: 65px;
+
+}
+.footer{
+    background-color: rgb(55, 105, 128);
+
+    height: 50px;
+
 }
 .navbar {
-    color: whitesmoke
+    color: whitesmoke;
+    background-color: rgb(55, 102, 124);
+    height: 75px;
 }
 .nav-link {
     color: whitesmoke
@@ -62,26 +83,42 @@ body{
 }
 .brandStatement {
     width: 70%;
-    text-align: center;
+    text-align: left;
     font-size: 20px;
     margin-left:12%;
-    margin-right:18%
+    margin-right:18%;
+    text-indent: 25px
 }
 .fbLink {
     background-color: rgba(1, 1, 231, 0.781);
-
+padding: 10px;
+border-radius:25px;
 }
 .ghLink {
     background-color: black;
-
+    padding: 10px;
+    border-radius:25px;
 }
 .liLink {
     background-color: rgba(0, 0, 139, 0.733);       
-     border-bottom-left-radius:25px;
+    padding: 10px;
+    border-radius:25px;
 }
 .iconListItem {
-    background-color: transparent;
+position:relative;
     color: white;
+    top: 15px;
+
+}
+.email{
+    color: white;
+    position:relative;
+    background-color: rgb(87, 103, 110);;
+    padding: 10px;
+    border-radius:25px;
+}
+.brandGreeting {
+    color:white
 }
 .list-group {
     color: white;

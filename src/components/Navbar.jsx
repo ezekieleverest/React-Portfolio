@@ -2,7 +2,7 @@ import React from "react";
 
 function Navbar() {
   return (
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark ">
   <a class="navbar-brand" href="#">
     Ezekiel Everest
   </a>

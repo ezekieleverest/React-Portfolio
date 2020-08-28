@@ -10,27 +10,25 @@ function Portfolio() {
     <div>
       <Navbar />
       <div className="container">
-        <div className="row portRow">
-          <div className="col-6 card">
+        
+          <div className=" ">
             <HeroCraft />
           </div>
-          <div className="col-6 card">
+          <div className=" ">
             <Slasha />
           </div>
-        </div>
-        <div className="row portRow">
-          <div className="col-6 card">
+    
+        
+          <div className=" ">
             <NoteTaker />
           </div>
-          <div className="col-6 card">
+          <div className=" ">
               <RoadTrippr />
           </div>
         </div>
-        <div className="row portRow">
-          <div className="col-6 card">Hello</div>
-          <div className="col-6 card">Hello</div>
-        </div>
-      </div>
+
+
+   
     </div>
   );
 }

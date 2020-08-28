@@ -1,5 +1,5 @@
 import React from 'react'
-import image from '../images/Slasha.png'
+import image from '../images/slashahome.png'
 
 function Slasha () {
   return (
@@ -8,8 +8,8 @@ function Slasha () {
   <div className="card-body">
    
     <p className="card-text">An app for Restaurant Menu Management.</p>
-    <a href="https://desolate-stream-81420.herokuapp.com/" className="btn btn-dark mx-3">Check it out</a>
-    <a href="/slashatech" className="btn btn-dark mx-3">Tech Details</a>
+    <a href="https://desolate-stream-81420.herokuapp.com/" className="portBtn btn btn-dark mx-3">Check it out</a>
+    <a href="/slashatech" className="portBtn btn btn-dark mx-3">Tech Details</a>
   </div>
 </div>
   )
