@@ -25,7 +25,7 @@ function Navbar() {
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/portfolio">
+        <a class="nav-link" href="/portfolio1">
           Portfolio
         </a>
       </li>
