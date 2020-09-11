@@ -18,7 +18,7 @@ function App() {
     <div>
       <Wrapper>
         <Route exact path ="/" component={About} />
-        <Route exact path = "/portfolionew" component={Portfolio} />
+        <Route exact path = "/#/portfolionew" component={Portfolio} />
         <Route exact path ="/slashatech" component={SlashaTech} />
         <Route exact path ="/herotech" component={HeroCraftTech} />
         <Route exact path ="/roadtech" component={RoadTripprTech} />
