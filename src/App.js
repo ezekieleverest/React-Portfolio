@@ -18,11 +18,11 @@ function App() {
     <div>
       <Wrapper>
         <Route exact path ="/" component={About} />
-        <Route exact path = "/#/portfolionew" component={Portfolio} />
-        <Route exact path ="/slashatech" component={SlashaTech} />
-        <Route exact path ="/herotech" component={HeroCraftTech} />
-        <Route exact path ="/roadtech" component={RoadTripprTech} />
-        <Route exact path ="/notetech" component={NoteTakerTech} />
+        <Route exact path ="/React-Portfolio/#/portfolionew" component={Portfolio} />
+        <Route exact path ="/React-Portfolio/#/slashatech" component={SlashaTech} />
+        <Route exact path ="/React-Portfolio/#/herotech" component={HeroCraftTech} />
+        <Route exact path ="/React-Portfolio/#/roadtech" component={RoadTripprTech} />
+        <Route exact path ="/React-Portfolio/#/notetech" component={NoteTakerTech} />
 
       </Wrapper>
     </div>
