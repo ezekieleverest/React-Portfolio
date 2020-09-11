@@ -9,7 +9,7 @@ function Slasha () {
    
     <p className="card-text">An app for Restaurant Menu Management.</p>
     <a href="https://desolate-stream-81420.herokuapp.com/" className="portBtn btn btn-dark mx-3">Check it out</a>
-    <a href="/slashatech" className="portBtn btn btn-dark mx-3">Tech Details</a>
+    <a href="/#/slashatech" className="portBtn btn btn-dark mx-3">Tech Details</a>
   </div>
 </div>
   )

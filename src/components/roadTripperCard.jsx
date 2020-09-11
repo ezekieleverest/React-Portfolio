@@ -10,7 +10,7 @@ function RoadTrippr () {
    
     <p className="card-text">A fully front-end app to find destinations on a Road Trip.</p>
     <a href="https://ezekielenyart.github.io/RoadTrippr/" className="portBtn btn btn-dark mx-3">Check it out</a>
-    <a href="/roadtech" className="portBtn btn btn-dark mx-3">Tech Details</a>
+    <a href="/#/roadtech" className="portBtn btn btn-dark mx-3">Tech Details</a>
 
   </div>
 </div>
