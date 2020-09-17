@@ -9,7 +9,7 @@ function RoadTrippr () {
   <div className="card-body">
    
     <p className="card-text">A fully front-end app to find destinations on a Road Trip.</p>
-    <a href="https://ezekielenyart.github.io/RoadTrippr/" className="portBtn btn btn-dark mx-3">Check it out</a>
+    <a href="https://ezekieleverest.github.io/RoadTrippr/" className="portBtn btn btn-dark mx-3">Check it out</a>
     <a href="/React-Portfolio/#/roadtech" className="portBtn btn btn-dark mx-3">Tech Details</a>
 
   </div>
