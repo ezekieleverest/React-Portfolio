@@ -11,7 +11,7 @@ function HeroCraftTech (){
     <h1 className = "techDetailsh1">
         Technical Details
     </h1>
-    <p>In this project, my team and I created an intuitive application for creating fantasy characters for use in Dungeons and Dragons.  The user has full control over their choice of Race, Class, Abilities, and Background.  Upon creation, the character is then stored in a Mongo Database in order to be referenced later and viewed on character summary sheet for ease of use while the user engages in Dungeons and Dragons.</p>
+    <p>With a mobile-first design, my team and I created an intuitive application for creating fantasy characters for use in Dungeons and Dragons.  The user has full control over their choice of Race, Class, Abilities, and Background.  Upon creation, the character is then stored with MongoDB in order to be referenced later and viewed on the character summary sheet. This makes it easy to use while the user engages in Dungeons and Dragons.</p>
         <h2>Technologies</h2>
         <ul>
             <li>Express</li>

@@ -7,7 +7,7 @@ function HeroCraft () {
   <img src={image} className="heroImage text-center card-img-top" alt="HeroCraft" href="" />
   <div className="card-body">
    
-    <p className="card-text">An app to create a fantasy character.</p>
+    <p className="card-text">A mobile-first app to create a fantasy character.</p>
     <a href="https://murmuring-cove-64228.herokuapp.com/" className="portBtn btn btn-dark mx-3">Check it out</a>
     <a href="/React-Portfolio/#/herotech" className="portBtn btn btn-dark mx-3">Tech Details</a>
 
